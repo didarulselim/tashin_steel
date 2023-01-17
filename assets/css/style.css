@@ -1,0 +1,21 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.top-navbar {
+	background-color: #283172;
+
+}
+.top-header-content {
+	display: contents;
+}
+.top-navbar p span svg{
+	margin-right: 10px;
+}
+
+.top-navbar p {
+	display: inline-block;
+	color: #BFC4CA;
+	margin: 5px 10px 5px;
+}
